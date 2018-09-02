@@ -1,0 +1,11 @@
+VeryHigh,Young,Owner
+High,Medium,Owner
+Low,Young,Rented
+High,Medium,Owner
+VeryHigh,Medium,Owner
+Medium,Young,Owner
+High,Old,Owner
+Medium,Medium,Rented
+Low,Medium,Rented
+Low,Old,Rented
+High,Young,Owner
